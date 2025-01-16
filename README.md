@@ -1,10 +1,11 @@
-**<h2>Cab Order Booking</h2>
 
-*<h3>About Version 3.1.1</h3>
+<h2>Cab Order Booking</h2>
+
+<h3>About Version 3.1.1</h3>
                                                                                                                                                                                 
  Welcome to the CAB Booking Application! This application allows users to book cabs, track rides, and rate drivers. This README provides an overview of the project, its setup, and its functionalities.
 
-*<h3>Features</h3>
+<h3>Features</h3>
                                                                                                                                                                         
 -User Registration and Login: Users can register and log in to the application.
 
@@ -16,15 +17,15 @@
 
 -Driver Rating: Users can rate drivers after completing their rides.
 
-*<h3>Technologies Used</h3>
+<h3>Technologies Used</h3>
                                                                                                          
 Java: Core programming language used for application development.
 
-*<h3>Prerequisites</h3>
+<h3>Prerequisites</h3>
                                                                                                      
 Java Development Kit (JDK) 21 or higher
 
-*<h3>Tables</h3>
+<h3>Tables</h3>
 
 -Users
 
@@ -38,7 +39,7 @@ Java Development Kit (JDK) 21 or higher
 
 -Ratings
 
-*<h3>Contributing</h3>
+<h3>Contributing</h3>
 
 We welcome contributions from the community! If you find a bug or want to add a feature, please open an issue or submit a pull request.
 
